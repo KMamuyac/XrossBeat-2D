@@ -1,0 +1,17 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "MGD_QuartzMusicSystem_TemplateKit",
+	"Description": "A collection of Blueprints using Unreal Engine's Quartz audio system for sample-accurate timing and playback of interactive music and procedural audio. ",
+	"Category": "Other",
+	"CreatedBy": "Michael Gary Dean",
+	"CreatedByURL": "https://michaelgarydean.com",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false
+}
